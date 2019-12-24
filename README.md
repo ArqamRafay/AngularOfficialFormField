@@ -1,3 +1,5 @@
+#Command Required To Run <br>
+  ng add @angular/material
 # OfficalFormField
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
